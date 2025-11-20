@@ -1,1 +1,1 @@
-Revising git again
+Revising git again. This change is done while learning branching in chapter 1.
